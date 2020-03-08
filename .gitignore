@@ -1,0 +1,12 @@
+*.class
+*.log
+
+**/out
+**/target
+
+# VC Metals:
+**/.bloop
+**/.metals
+**/metals.sbt
+**/null
+
