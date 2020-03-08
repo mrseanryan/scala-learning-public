@@ -4,7 +4,15 @@ Learning Scala
 
 - notes taken during the [Coursera course](https://www.coursera.org/learn/progfun1?)
 
-PRIVATE repo - as it contains answers to the course assignments.
+PUBLIC repo - does NOT contain answers to the course assignments.
+
+It does contain:
+
+- links
+- books
+- notes and code from the course lectures
+
+Sharing this, in case it is useful.
 
 ## More readmes
 
