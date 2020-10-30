@@ -1,12 +1,4 @@
-# Coursera notes
-
-## How to submit an assignment:
-
-```bash
-sbt styleCheck
-
-sbt "submit e-mail@university.org <token from assignment page>"
-```
+# Notes and Books about Scala - partly from Coursera notes
 
 ## References
 
@@ -23,6 +15,11 @@ sbt "submit e-mail@university.org <token from assignment page>"
 [Martin’s talk at OSCON 2011](http://www.youtube.com/watch?v=3jg1AheF4n0) Working Hard to Keep it Simple (slides)
 
 ### Books:
+
+Functional Programming in Scala (the 'red book'). Paul Chiusano and Runar Bjarnason. Foreword by Martin Odersky. Manning 2014 - https://www.manning.com/books/functional-programming-in-scala
+
+Hands-on Scala. Li Haoyi. 2020 - https://www.handsonscala.com/chapter-1-hands-on-scala.html
+
 Structure and Interpretation of Computer Programs. Harold Abelson and Gerald J. Sussman. 2nd edition. MIT Press 1996. - [Full text available online](http://mitpress.mit.edu/sicp/).
 
 Programming in Scala. Martin Odersky, Lex Spoon and Bill Venners. 3rd edition. Artima 2016. http://www.artima.com/shop/programming_in_scala_3ed
