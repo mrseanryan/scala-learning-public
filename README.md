@@ -47,6 +47,13 @@ Sharing this, in case it is useful.
 
 [Scala School](http://twitter.github.com/scala_school/) A Scala tutorial by Twitter
 
+## Interesting libraries
+
+| Library | URL | Description |
+|---|---|---|
+| Ammonite | https://ammonite.io/ | a REPL for Scala |
+| jsoup | https://jsoup.org/ | a Java based HTML Parser for web scraping - can be used from Scala |
+
 # Licence = MIT
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
