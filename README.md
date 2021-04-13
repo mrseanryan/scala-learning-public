@@ -53,6 +53,8 @@ Sharing this, in case it is useful.
 |---|---|---|
 | Ammonite | https://ammonite.io/ | a REPL for Scala |
 | jsoup | https://jsoup.org/ | a Java based HTML Parser for web scraping - can be used from Scala |
+| requests-scala | https://github.com/com-lihaoyi/requests-scala | Scala port of the Python HTTP requests library |
+| uJson | https://www.lihaoyi.com/post/uJsonfastflexibleandintuitiveJSONforScala.html | JSON library for Scala |
 
 # Licence = MIT
 
